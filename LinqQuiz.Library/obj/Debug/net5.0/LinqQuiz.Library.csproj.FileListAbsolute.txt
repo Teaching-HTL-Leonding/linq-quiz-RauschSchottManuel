@@ -1,0 +1,12 @@
+D:\HTL\4CHIF\PROO-C#\!HÜs\Github\linq-quiz-RauschSchottManuel\LinqQuiz.Library\bin\Debug\net5.0\LinqQuiz.Library.deps.json
+D:\HTL\4CHIF\PROO-C#\!HÜs\Github\linq-quiz-RauschSchottManuel\LinqQuiz.Library\bin\Debug\net5.0\LinqQuiz.Library.dll
+D:\HTL\4CHIF\PROO-C#\!HÜs\Github\linq-quiz-RauschSchottManuel\LinqQuiz.Library\bin\Debug\net5.0\ref\LinqQuiz.Library.dll
+D:\HTL\4CHIF\PROO-C#\!HÜs\Github\linq-quiz-RauschSchottManuel\LinqQuiz.Library\bin\Debug\net5.0\LinqQuiz.Library.pdb
+D:\HTL\4CHIF\PROO-C#\!HÜs\Github\linq-quiz-RauschSchottManuel\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\HTL\4CHIF\PROO-C#\!HÜs\Github\linq-quiz-RauschSchottManuel\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.AssemblyInfoInputs.cache
+D:\HTL\4CHIF\PROO-C#\!HÜs\Github\linq-quiz-RauschSchottManuel\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.AssemblyInfo.cs
+D:\HTL\4CHIF\PROO-C#\!HÜs\Github\linq-quiz-RauschSchottManuel\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.csproj.CoreCompileInputs.cache
+D:\HTL\4CHIF\PROO-C#\!HÜs\Github\linq-quiz-RauschSchottManuel\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.dll
+D:\HTL\4CHIF\PROO-C#\!HÜs\Github\linq-quiz-RauschSchottManuel\LinqQuiz.Library\obj\Debug\net5.0\ref\LinqQuiz.Library.dll
+D:\HTL\4CHIF\PROO-C#\!HÜs\Github\linq-quiz-RauschSchottManuel\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.pdb
+D:\HTL\4CHIF\PROO-C#\!HÜs\Github\linq-quiz-RauschSchottManuel\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.csprojAssemblyReference.cache
